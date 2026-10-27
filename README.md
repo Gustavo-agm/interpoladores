@@ -17,7 +17,7 @@ función conocida y después con datos reales.
 | **Comparación** | Los tres métodos sobre 6 puntos de $\sin(x)$, evaluados con el error cuadrático medio (ECM). |
 | **Fenómeno de Runge** | Con $f(x)=1/(1+25x^2)$ se muestra cómo Lagrange oscila en los bordes al aumentar los puntos, mientras la spline converge. |
 | **El pato** | Reconstrucción del contorno de un pato (Burden y Faires, tabla 3.18) con 21 puntos. |
-| **Datos reales** | Temperatura mínima diaria en Melbourne (1981–1990): se ocultan días, se reconstruyen con cada método y se mide el error. |
+| **Caso de estudio con datos reales** | Temperatura mínima diaria en Melbourne (1981–1990): se ocultan días, se reconstruyen con cada método y se mide el error. |
 | **Aplicaciones** | Imputación de series de tiempo, meteorología, gráficos por computadora, imágenes, finanzas, robótica y audio. |
 
 ## Resultados principales
