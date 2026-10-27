@@ -1,7 +1,7 @@
 # Interpoladores: lineal a tramos, Lagrange y splines cúbicas
 
-Notebook didáctico (Reconocimiento de Patrones y Aprendizaje Automático) que
-explica, implementa y compara tres métodos de interpolación, primero con una
+Proyecto personal en el que implemento y comparo tres métodos de interpolación
+para mostrar su funcionamiento, sus ventajas y sus limitaciones: primero con una
 función conocida y después con datos reales.
 
 > Interpolar es estimar un valor que no medimos, pero que está entre datos que
